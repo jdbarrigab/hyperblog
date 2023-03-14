@@ -3,3 +3,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: papayawhip;
 }
+
+#container {
+    width: 70%;
+    padding: 1rem;
+    border: 2px solid black;
+    margin: 0;
+}
